@@ -1,7 +1,6 @@
 # 🚦 Akıllı Yaya Geçidi EDS & Plaka Tanıma (ANPR) Denetim Sistemi
-*(TÜBİTAK 2209-A / 2204 Araştırma Projesi)*
 
-Bu proje, ışıksız yaya geçitlerinde yayaların geçiş üstünlüğünü korumak, yayaya yol vermeyen araçları **YOLOv8 + ByteTrack** ile gerçek zamanlı tespit etmek, **özel eğitilmiş YOLOv8 Plaka Dedektörü + EasyOCR** ile araç plakalarını otomatik okumak ve resmi **Excel (`.xlsx`) / JSON İhlal Tutanak Raporu** oluşturmak amacıyla geliştirilmiştir.
+Bu proje, ışıksız yaya geçitlerinde yayaların geçiş üstünlüğünü korumak, yayaya yol vermeyen araçları **YOLOv8 + ByteTrack** ile gerçek zamanlı tespit etmek, **özel eğitilmiş YOLOv8 Plaka Dedektörü + EasyOCR** ile araç plakalarını otomatik okumak ve resmi **Excel (`.xlsx`) / JSON İhlal Tutanak Raporu** oluşturmak amacıyla geliştirilmiş uçtan uca bir Bilgisayarlı Görü (Computer Vision) uygulamasıdır.
 
 ---
 
