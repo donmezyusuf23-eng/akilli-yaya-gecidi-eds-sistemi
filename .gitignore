@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/yeni_videolar/
+output/yeni_onizlemeler/
+output/Tubitak_EDS_Ihlal_Raporu.xlsx
+output/denetim_sonucu.mp4
